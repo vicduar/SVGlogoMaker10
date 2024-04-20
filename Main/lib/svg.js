@@ -9,7 +9,8 @@ class SVG {
   setText(text, color) {
     this.textEl = `<text x="150" y="125" font-size="60" text-anchor="middle" fill="${color}">${text}</text>`;
   }
-    setShape(shape){this.shapeEl=shape.render()}
+  setShape(shape) {
+    this.shapeEl = shape.render();
+  }
 }
-    module.exports=SVG
-    
+module.exports = SVG;
