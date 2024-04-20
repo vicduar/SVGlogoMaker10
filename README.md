@@ -52,13 +52,20 @@ This project is licensed under the MIT license.
 To install the test library “Jest,” the command "npm i jest -D" must be entered into the terminal. Once Jest has been successfully installed the command “npm test” will initiate the program and should result in the following lines of code:
 
 PASS  lib/shapes.test.js
+
   √ should create a blue triangle (4 ms)
+  
   √ red circle (1 ms)
+  
   √ orange square
 
 Test Suites: 1 passed, 1 total
+
 Tests:       3 passed, 3 total
+
 Snapshots:   0 total
+
 Time:        0.995 s, estimated 2 s
+
 Ran all test suites.
 
