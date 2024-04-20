@@ -42,12 +42,12 @@ Screencastify (April 19, 2024). Installed extension for Google Chrome browser, u
 
 W3Schools (2024, April 12-14). The world’s largest web developer site. Multiple pages retrieved from www.w3schools.com April 12-14, 2024.
 
-License
+##License
 
 This project is licensed under the MIT license.
 
 
-Testing
+##Testing
 
 To install the test library “Jest,” the command "npm i jest -D" must be entered into the terminal. Once Jest has been successfully installed the command “npm test” will initiate the program and should result in the following lines of code:
 
